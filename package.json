@@ -1,0 +1,21 @@
+{
+  "name": "atg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "docker": "^1.0.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "mongodb": "^4.3.1",
+    "mongoose": "^6.2.0",
+    "mongoose-auto-increment": "^5.0.1",
+    "node-cache": "^5.1.2",
+    "nodemon": "^2.0.15"
+  }
+}
